@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "e8f4b4df-d9bf-4c42-947a-7fb3fccbdde9",
+      "name": "Muzzammilhusen .N.Bhatti",
+      "email": "test2@gmail.com"
+    },
+    {
+      "id": "8e7b95ce-bd34-45e1-9b0b-b6b3edafe618",
+      "name": "Anabiabanu Bhatti",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "c578dd6c-cd08-4b47-8029-54db754b8ae2",
+      "name": "Mohit Khandhar",
+      "email": "test3@gmail.com"
+    },
+    {
+      "id": "614389d2-57b5-40cb-8866-052ebd168089",
+      "name": "Nirav",
+      "email": "test4@gmail.com"
+    },
+    {
+      "id": "f0390b05-873e-4b24-972c-03e985396ba4",
+      "name": "Zafar",
+      "email": "test@mas.com"
+    },
+    {
+      "id": "eee94a79-f502-40bd-a04b-73e044ec6633",
+      "name": "sohel saiyed",
+      "email": "sohel@gmail.com"
+    },
+    {
+      "id": "e0eb59b3-f560-46cb-85ab-aa57ae015890",
+      "name": "sohel dalwadi",
+      "email": "soheld@gmail.com"
+    }
+  ]
+}
